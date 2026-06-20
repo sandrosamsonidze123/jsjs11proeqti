@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.sawkisi {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    
+}
+
+
+.mtavari {
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
+
+
+
+
+
+.container {
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 10px;
+    margin: auto;
+    margin-top: 200px;
+    border: 2px solid black;
+    height: 300px;
+    padding: 30px;
+    background-color: pink;
+}
+
+
+.p1, .p2, .p3, .p4, .p5, .p6 {
+    display: none;
+}
+
+
+
+
+h1 {
+    margin-top: 40px;
+    background-color: pink;
+}
+
+
+
+.sawiro {
+    height: 40px;
+}
+
+
+
+.inputi {
+    display: inline-block;
+    height: 30px;
+    background-color: pink;
+}
